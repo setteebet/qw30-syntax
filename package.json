@@ -1,18 +1,18 @@
 {
   "name": "qw30-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "ruay1✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"ruay1",
-"เว็บหวยรัฐบาลออนไลน์",
-"หวยหุ้น lottovip",
-"แทงหวย24",
-"สดหวยรัฐบาลวันนี้"
-],
+  "version": "0.2.0",
+  "description": "ruay1✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "ruay1",
+    "เว็บหวยรัฐบาลออนไลน์",
+    "หวยหุ้น lottovip",
+    "แทงหวย24",
+    "สดหวยรัฐบาลวันนี้"
+  ],
   "repository": "https://github.com/setteebet/qw30-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
